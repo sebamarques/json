@@ -1,31 +1,32 @@
 [
 
-  { 
-    dias{       "Lunes": {
+  {     
+            {
+                "dia":"Lunes",
                 "mañana":"",
                 "noche": ""
             },
-            "Martes": {
+            {"dia":"Martes",
                 "mañana": "",
                 "noche": ""
             },
-            "Miercoles": {
+            {"dia":"Miercoles",
                 "mañana": "",
                 "noche": ""
             },
-            "Jueves": {
+            {"dia":"Jueves":,
                 "mañana": "",
                 "noche": ""
             },
-            "Viernes": {
+            {"dia":"Viernes",
                 "mañana": "",
                 "noche": ""
             },
-            "Sabado": {
+            {"dia":"Sabado",
                 "mañana": "",
                 "noche": ""
             },
-            "Domingo": {
+            {"dia":"Domingo",
                 "mañana": "",
                 "noche": ""
             }       
