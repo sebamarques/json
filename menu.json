@@ -1,5 +1,7 @@
 [
-{            "Lunes": {
+
+  { 
+    dias{       "Lunes": {
                 "mañana":"",
                 "noche": ""
             },
@@ -27,5 +29,5 @@
                 "mañana": "",
                 "noche": ""
             }       
-}
+}}
 ]
