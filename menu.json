@@ -1,4 +1,4 @@
-            "Lunes": {
+{            "Lunes": {
                 "mañana":"",
                 "noche": ""
             },
@@ -25,5 +25,5 @@
             "Domingo": {
                 "mañana": "",
                 "noche": ""
-            }
-        
+            }       
+}
