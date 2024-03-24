@@ -1,0 +1,32 @@
+{
+    "dias": {
+        "Lunes": {
+            "mañana":"",
+            "noche": ""
+        },
+        "Martes": {
+            "mañana": "",
+            "noche": ""
+        },
+        "Miercoles": {
+            "mañana": "",
+            "noche": ""
+        },
+        "Jueves": {
+            "mañana": "",
+            "noche": ""
+        },
+        "Viernes": {
+            "mañana": "",
+            "noche": ""
+        },
+        "Sabado": {
+            "mañana": "",
+            "noche": ""
+        },
+        "Domingo": {
+            "mañana": "",
+            "noche": ""
+        }
+    }
+}
